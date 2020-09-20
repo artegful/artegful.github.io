@@ -1,5 +1,6 @@
 ---
 layout: archive
+class: wide
 permalink: /portfolio/
 title: "Portfolio and Projects"
 author_profile: true
@@ -18,7 +19,7 @@ author_profile: true
   <hr/>
   <p>{{ post.excerpt }}</p>
   {% for tag in post.tags %}
-    <a href="#" class="tag"> {{ tag }} </a>
+    <a class="page__taxonomy-item" rel="tag">{{ tag }}</a>
   {% endfor %}
-  <a href="{{ post.url }}">Read more</a>
+  <a class="btn" href="{{ post.url }}">Read more</a>
 {% endfor %}
