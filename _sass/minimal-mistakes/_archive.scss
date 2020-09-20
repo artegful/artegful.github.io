@@ -89,14 +89,7 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-
-  @include breakpoint($small) {
-    max-height: 200px;
-  }
-
-  @include breakpoint($medium) {
-    max-height: 120px;
-  }
+  max-resolution: 1px;
 
   img {
     width: 100%;
