@@ -19,5 +19,6 @@ author_profile: true
   <p>{{ post.excerpt }}</p>
   {% for tag in post.tags %}
     <a href="#" class="tag"> {{ tag }} </a>
+  {% endfor %}
   <a href="{{ post.url }}">Read more</a>
 {% endfor %}
