@@ -5,10 +5,9 @@ title: "Portfolio and Projects"
 author_profile: true
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <h2>{{ post.title }}</h2>
+  <hr/>
+  <p>{{ post.}}</p>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
