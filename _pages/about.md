@@ -8,24 +8,22 @@ author_profile: true
 
 <style>
 .container {
-  width: 80%;
-  height: 200px;
-  background: aqua;
   margin: auto;
   padding: 10px;
 }
 
-.one {
-  width: 15%;
-  height: 200px;
-  background: red;
+.left {
+  width: 50%;
   float: left;
 }
 
-.two {
-  margin-left: 15%;
-  height: 200px;
-  background: black;
+.right {
+  margin-left: 50%;
+}
+
+.stick {
+  border-width: 0 0 0 2px;
+  border-color: #fff;
 }
 </style>
 
@@ -39,10 +37,10 @@ Outside of game development, I like reading books, learning new things, cooking 
 </p>
 <h2>Skills</h2>
 <div class="container">
-  <div class="one">
+  <div class="one stick">
      Main Content
   </div>
-  <div class="two">
+  <div class="two stick">
      Sidebar
   </div>
 </div>
