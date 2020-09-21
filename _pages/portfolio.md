@@ -1,6 +1,6 @@
 ---
 layout: archive
-class: wide
+classes: wide
 permalink: /portfolio/
 title: "Portfolio and Projects"
 author_profile: true
@@ -18,5 +18,5 @@ author_profile: true
   <h2>{{ post.title }}</h2>
   <hr/>
   <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}" class="btn btn--primary">Read More</a>
+  <a href="{{ post.url }}" class="btn btn--inverse">Read More</a>
 {% endfor %}
