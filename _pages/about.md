@@ -5,6 +5,30 @@ layout: single
 classes: wide
 author_profile: true
 ---
+
+<style>
+.container {
+  width: 80%;
+  height: 200px;
+  background: aqua;
+  margin: auto;
+  padding: 10px;
+}
+
+.one {
+  width: 15%;
+  height: 200px;
+  background: red;
+  float: left;
+}
+
+.two {
+  margin-left: 15%;
+  height: 200px;
+  background: black;
+}
+</style>
+
 <p>
 My name is Klimovich Artsemi and I am a Junior Game Programmer. I study Computer Science at the Belarusian State University of Informatics and Radioelectronics in Belarus. I am looking for new opppurtunities in the gaming industry.
 I love learning various new things and have always been in passionate about playing games, but more importantly, creating them as well from a young age.
@@ -14,11 +38,11 @@ I love learning various new things and have always been in passionate about play
 Outside of game development, I like reading books, learning new things, cooking and baking, watching about scientific topics, game design and game history, playing games and more.
 </p>
 <h2>Skills</h2>
-<div class="grid">
-  <div class="col-2-3">
+<div class="container">
+  <div class="one">
      Main Content
   </div>
-  <div class="col-1-3">
+  <div class="two">
      Sidebar
   </div>
 </div>
