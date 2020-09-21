@@ -7,18 +7,23 @@ author_profile: true
 ---
 
 <style>
-.container {
-  margin: auto;
-  padding: 10px;
-}
+  .container {
+    margin: auto;
+    padding: 10px;
+  }
 
-.left {
-  width: 50%;
-  float: left;
-}
+  .left {
+    width: 50%;
+    float: left;
+  }
 
-.right {
-  margin-left: 50%;
+  .right {
+    margin-left: 50%;
+
+  .icon {
+    height: 32px;
+    width: 32px;
+  }
 }
 </style>
 
@@ -44,7 +49,7 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="right">
   <h3>Languages</h3>
   <ul>
-   <li>Russian</li>
+   <li><img class="icon" src="/images/russian-flag128x128.png"> | Russian</li>
    <li><img class="icon" src="/images/gbr-flag128x128.png"> | English(upper-intermediate)</li>
   </ul>
   </div>
