@@ -18,5 +18,5 @@ author_profile: true
   <h2>{{ post.title }}</h2>
   <hr/>
   <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}" class="btn btn--primary">Link Text</a>
+  <a href="{{ post.url }}" class="btn btn--primary">Read More</a>
 {% endfor %}
