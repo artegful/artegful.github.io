@@ -20,13 +20,6 @@ author_profile: true
 .right {
   margin-left: 50%;
 }
-
-.stick {
-  padding-left: 10px;
-  border-width: 0 0 0 2px;
-  border-color: #fff;
-  border-style: solid;
-}
 </style>
 
 <p>
@@ -39,18 +32,18 @@ Outside of game development, I like reading books, learning new things, cooking 
 </p>
 <h2>Skills</h2>
 <div class="container">
-  <div class="left stick">
+  <div class="left">
      <h3>Programming Languages</h3>
      <ul>
-      <li>C#</li>
-      <li>C++</li>
+      <li><img class="icon" src="/images/csharp-icon128x128.png" | C#</li>
+      <li><img class="icon" src="/images/cpp-icon128x128.png" | C++</li>
      </ul>
   </div>
-  <div class="right stick">
-  <h3>Programming Languages</h3>
+  <div class="right">
+  <h3>Languages</h3>
   <ul>
    <li>Russian</li>
-   <li>English(upper-intermediate)</li>
+   <li><img class="icon" src="/images/gbr-flag128x128.png" | English(upper-intermediate)</li>
   </ul>
   </div>
 </div>
