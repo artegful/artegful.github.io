@@ -19,7 +19,7 @@ author_profile: true
   <hr/>
   <p>{{ post.excerpt }}</p>
   {% for tag in post.tags %}
-    <a class="page__taxonomy-item" rel="tag">{{ tag }}</a>
+    <p>{{ tag }}</p>
   {% endfor %}
   <a class="btn" href="{{ post.url }}">Read more</a>
 {% endfor %}
