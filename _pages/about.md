@@ -23,7 +23,7 @@ author_profile: true
 </style>
 
 <p>
-My name is Klimovich Artsemi and I am a Junior Game Programmer. I study Computer Science at the Belarusian State University of Informatics and Radioelectronics in Belarus. I am looking for new opppurtunities in the gaming industry.
+My name is <b>Klimovich Artsemi</b> and I am a Junior Game Programmer. I study <b>Computer Science</b> at the <b>Belarusian State University of Informatics and Radioelectronics</b> in Belarus. I am looking for new opppurtunities in the gaming industry.
 I love learning various new things and have always been in passionate about playing games, but more importantly, creating them as well from a young age.
 </p>
 
