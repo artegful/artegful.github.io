@@ -37,15 +37,15 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="left">
      <h3>Programming Languages</h3>
      <ul>
-      <li><img class="icon" src="/images/csharp-icon128x128.png" | C#</li>
-      <li><img class="icon" src="/images/cpp-icon128x128.png" | C++</li>
+      <li><img class="icon" src="/images/csharp-icon128x128.png"> | C#</li>
+      <li><img class="icon" src="/images/cpp-icon128x128.png"> | C++</li>
      </ul>
   </div>
   <div class="right">
   <h3>Languages</h3>
   <ul>
    <li>Russian</li>
-   <li><img class="icon" src="/images/gbr-flag128x128.png" | English(upper-intermediate)</li>
+   <li><img class="icon" src="/images/gbr-flag128x128.png"> | English(upper-intermediate)</li>
   </ul>
   </div>
 </div>
@@ -55,13 +55,13 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="left">
      <h3>Technical</h3>
      <ul>
-      <li><img class="icon" src="/images/vs-icon128x128.png" | VS</li>
+      <li><img class="icon" src="/images/vs-icon128x128.png"> | VS</li>
      </ul>
   </div>
   <div class="right">
   <h3>Game Engines</h3>
   <ul>
-   <li><img class="icon" src="/images/unity3d-icon128x128.png" | Unity</li>
+   <li><img class="icon" src="/images/unity3d-icon128x128.png"> | Unity</li>
   </ul>
   </div>
 </div>
