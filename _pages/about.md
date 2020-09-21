@@ -40,9 +40,17 @@ Outside of game development, I like reading books, learning new things, cooking 
 <h2>Skills</h2>
 <div class="container">
   <div class="left stick">
-     Main Content
+     <h3>Programming Languages</h3>
+     <ul>
+      <li>C#</li>
+      <li>C++</li>
+     </ul>
   </div>
   <div class="right stick">
-     Sidebar
+  <h3>Programming Languages</h3>
+  <ul>
+   <li>Russian</li>
+   <li>English(upper-intermediate)</li>
+  </ul>
   </div>
 </div>
