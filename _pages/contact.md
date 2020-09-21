@@ -9,5 +9,4 @@ author_profile: true
 <ul>
   <li>Email: <a href="mailto:artemklimo@gmail.com" target="_blank">artemklimo@gmail.com</a></li>
   <li>GitHub: <a href="github.com/artegful">/artegful</a></li>
-  <li>LinkedIn: </li>
 </ul>
