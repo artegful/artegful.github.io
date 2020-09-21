@@ -5,7 +5,7 @@
 /* Colors */
 $background-color: #141010 !default;
 $text-color: #fff6fb !default;
-$primary-color: #fd8900 !default;
+$primary-color: #ad00a1 !default;
 $border-color: $primary-color !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -54,8 +54,4 @@ $base0f: #cc6633 !default;
 
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
-}
-
-.hr {
-  color: $primary-color;
 }
