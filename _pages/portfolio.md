@@ -19,6 +19,7 @@ author_profile: true
   <hr/>
   <p>{{ post.excerpt }}</p>
   {% for tag in post.tags %}
+    <p>hello</p>
     <p>{{ tag }}</p>
   {% endfor %}
   <a class="btn" href="{{ post.url }}">Read more</a>
