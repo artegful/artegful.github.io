@@ -19,11 +19,6 @@ author_profile: true
 
   .right {
     margin-left: 50%;
-
-  .icon-image {
-    height: 32px;
-    width: 32px;
-  }
 }
 </style>
 
@@ -42,15 +37,15 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="left">
      <h3>Programming Languages</h3>
      <ul>
-      <li><img class="icon-image" src="/images/csharp-icon128x128.png"> | C#</li>
-      <li><img class="icon-image" src="/images/cpp-icon128x128.png"> | C++</li>
+      <li><img style="height:32px;width:32px;" src="/images/csharp-icon128x128.png"> | C#</li>
+      <li><img style="height:32px;width:32px;" src="/images/cpp-icon128x128.png"> | C++</li>
      </ul>
   </div>
   <div class="right">
   <h3>Languages</h3>
   <ul>
-   <li><img class="icon-image" src="/images/russian-flag128x128.png"> | Russian</li>
-   <li><img class="icon-image" src="/images/gbr-flag128x128.png"> | English(upper-intermediate)</li>
+   <li><img style="height:32px;width:32px;" src="/images/russian-flag128x128.png"> | Russian</li>
+   <li><img style="height:32px;width:32px;" src="/images/gbr-flag128x128.png"> | English(upper-intermediate)</li>
   </ul>
   </div>
 </div>
@@ -60,13 +55,13 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="left">
      <h3>Technical</h3>
      <ul>
-      <li><img class="icon-image" src="/images/vs-icon128x128.png"> | VS</li>
+      <li><img style="height:32px;width:32px;" src="/images/vs-icon128x128.png"> | VS</li>
      </ul>
   </div>
   <div class="right">
   <h3>Game Engines</h3>
   <ul>
-   <li><img class="icon-image" src="/images/unity3d-icon128x128.png"> | Unity</li>
+   <li><img style="height:32px;width:32px;" src="/images/unity3d-icon128x128.png"> | Unity</li>
   </ul>
   </div>
 </div>
@@ -75,13 +70,13 @@ Outside of game development, I like reading books, learning new things, cooking 
   <div class="left">
      <h3>Source Control</h3>
      <ul>
-      <li><img class="icon-image" src="/images/git-icon128x128.png"> | Git</li>
+      <li><img style="height:32px;width:32px;" src="/images/git-icon128x128.png"> | Git</li>
      </ul>
   </div>
   <div class="right">
   <h3>Management</h3>
   <ul>
-   <li><img class="icon-image" src="/images/trello-icon128x128.png"> | Trello</li>
+   <li><img style="height:32px;width:32px;" src="/images/trello-icon128x128.png"> | Trello</li>
   </ul>
   </div>
 </div>
