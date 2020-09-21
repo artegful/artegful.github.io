@@ -22,8 +22,10 @@ author_profile: true
 }
 
 .stick {
+  padding-left: 10px;
   border-width: 0 0 0 2px;
   border-color: #fff;
+  border-style: solid;
 }
 </style>
 
@@ -37,10 +39,10 @@ Outside of game development, I like reading books, learning new things, cooking 
 </p>
 <h2>Skills</h2>
 <div class="container">
-  <div class="one stick">
+  <div class="left stick">
      Main Content
   </div>
-  <div class="two stick">
+  <div class="right stick">
      Sidebar
   </div>
 </div>
