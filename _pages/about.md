@@ -65,3 +65,18 @@ Outside of game development, I like reading books, learning new things, cooking 
   </ul>
   </div>
 </div>
+
+<div class="container">
+  <div class="left">
+     <h3>Source Control</h3>
+     <ul>
+      <li><img class="icon" src="/images/git-icon128x128.png"> | Git</li>
+     </ul>
+  </div>
+  <div class="right">
+  <h3>Management</h3>
+  <ul>
+   <li><img class="icon" src="/images/trello-icon128x128.png"> | Trello</li>
+  </ul>
+  </div>
+</div>
