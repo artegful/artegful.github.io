@@ -17,7 +17,7 @@ author_profile: true
 {% for post in site.posts %}
   <h2>{{ post.title }}</h2>
   <hr/>
-  <img class="full" src="/images/{{ post.title }}.png" alt="">
+  <a href="{{ post.url }}"><img class="full" src="/images/{{ post.title }}.png" alt=""></a>
   <p>{{ post.excerpt }}</p>
   <a href="{{ post.url }}" class="btn btn--inverse">Read More</a>
 {% endfor %}
