@@ -22,7 +22,7 @@ sidebar:
 <h2>My contribution</h2>
 <p>This is my first project where I have worked side by side not only with programmers, but with designers and artists. I have developed:
 <ul>
-  <li>set on shelf inspection system to admire your constructed collection</li>
+  <li>set on shelf inspection system to admire your collection</li>
   <li>minifigures system to expand game content and increase session duration</li>
   <li>extra ab-testing features and fixes</li>
 </ul>
