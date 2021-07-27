@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Construction Set"
-date: 2021-03
+date: 2021-03-03
 tags: [Unity, C#, 3D, Mobile, Hyper-casual, Commercial, SKRGames]
 excerpt: "Construction Set is mobile game, where you can relax and immerse yourself into collecting various sets, ranging from medieval castle to american election. Game has 10+ million downloads."
 sidebar:
