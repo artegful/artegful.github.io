@@ -14,7 +14,7 @@ sidebar:
     text: "C#"
 ---
 <hr>
-<img class="full" src="/images/Construction.png" alt="banner">
+<img class="full" src="/images/Construction Set.png" alt="banner">
 
 <h2>About</h2>
 <p>Construction Set is mobile game, where you can relax and immerse yourself into collecting various sets, ranging from medieval castle to american election. Game has <b>10+ million</b> downloads.</p>
