@@ -9,7 +9,7 @@ sidebar:
   - title: "Platform:"
     text: Android, iOS
   - title: "Technologies:"
-    text: "Unity", "git", "Sourcetree"
+    text: Unity, git, Sourcetree
   - title: "Programming Languages:"
     text: "C#"
 ---
