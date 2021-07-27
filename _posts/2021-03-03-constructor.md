@@ -7,9 +7,9 @@ tags: [Unity, C#, 3D, Mobile, Hyper-casual, Commercial, SKRGames]
 excerpt: "Construction Set is mobile game, where you can relax and immerse yourself into collecting various sets, ranging from medieval castle to american election. Game has 10+ million downloads."
 sidebar:
   - title: "Platform:"
-    text: Android, iOS
+    text: PC
   - title: "Technologies:"
-    text: "Unity", "git", "Sourcetree"
+    text: "Unity"
   - title: "Programming Languages:"
     text: "C#"
 ---
