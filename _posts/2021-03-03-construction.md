@@ -23,5 +23,5 @@ sidebar:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xobJUn14Wdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Download</h2>
-<a href="https://play.google.com/store/apps/details?id=com.constructor.games"><i class="fab fa-google-play"></i> Google Play</a></br>
+<a href="https://play.google.com/store/apps/details?id=com.constructor.games"><i class="fab fa-google-play"></i> Google Play</a><br>
 <a href="https://apps.apple.com/us/app/construction-set-toys-puzzle/id1544659730"><i class="fab fa-app-store-ios"></i> App Store</a>
