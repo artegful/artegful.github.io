@@ -23,8 +23,8 @@ author_profile: true
 </style>
 
 <p>
-My name is <b>Klimovich Artsemi</b> and I am a Game Developer. 
-Ever since I was a kid, games have been my passion. They have got me into programming and learning game engines. Games are a perfect combo of creativity and technology. I am mostly fond of second aspect, but first one never lets you get bored. Programming and designing game architecture is like a never-ending puzzle, that I am engaged in solving.
+My name is <b>Klimovich Artsemi</b> and I am a Game Developer.<br>
+Ever since I was a kid, games have been my passion. They have got me into programming and learning game engines. Games are a perfect combo of creativity and technology. I am mostly fond of second aspect, but first one never lets you get bored. Programming and designing game architecture is like a never-ending puzzle, that I am engaged in solving.<br>
 
 My first team experience in game dev was when me and my classmate decided to create a simple mobile game, but lack of expertise brought our project down. That was the time, when I started working hard to become skilled enough to embody almost any game idea. One day I found a post about a small team of mobile developers looking for a novice, that can help them develop small features and exterminate bugs. That’s how I got my first (almost) professional contract. And here I am today, a developer at SKRGames, working on mobile games. 
 </p>
