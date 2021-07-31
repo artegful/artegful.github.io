@@ -23,7 +23,7 @@ author_profile: true
 </style>
 
 <p>
-My name is <b>Klimovich Artsemi</b> and I am a Game Developer.<br>
+My name is <b>Klimovich Artsemi</b> and I am a Game Developer.<br><br>
 Ever since I was a kid, games have been my passion. They have got me into programming and learning game engines. Games are a perfect combo of creativity and technology. I am mostly fond of second aspect, but first one never lets you get bored. Programming and designing game architecture is like a never-ending puzzle, that I am engaged in solving.
 </p>
 
