@@ -23,13 +23,15 @@ author_profile: true
 </style>
 
 <p>
-My name is <b>Klimovich Artsemi</b> and I am a Junior Game Programmer. I study <b>Computer Science</b> at the <b>Belarusian State University of Informatics and Radioelectronics</b> in Belarus. I am looking for new opppurtunities in the gaming industry.
-I love learning various new things and have always been passionate about playing games, but more importantly, creating them.
+My name is <b>Klimovich Artsemi</b> and I am a Game Developer. 
+Ever since I was a kid, games have been my passion. They have got me into programming and learning game engines. Games are a perfect combo of creativity and technology. I am mostly fond of second aspect, but first one never lets you get bored. Programming and designing game architecture is like a never-ending puzzle, that I am engaged in solving.
+
+My first team experience in game dev was when me and my classmate decided to create a simple mobile game, but lack of expertise brought our project down. That was the time, when I started working hard to become skilled enough to embody almost any game idea. One day I found a post about a small team of mobile developers looking for a novice, that can help them develop small features and exterminate bugs. That’s how I got my first (almost) professional contract. And here I am today, a developer at SKRGames, working on mobile games. 
 </p>
 
 <h2>Hobbies</h2>
 <p>
-Outside of game development, I like reading books, learning new things, cooking and baking, watching about scientific topics, game design and game history, playing games and more.
+At home I continue to work, but on my own projects. Participating in game jams challenges my creativity, programming and problem solving skills. I like to browse and try other indie enthusiasts’ projects, because they are full of really inspiring and fresh ideas. My other hobby is films. I enjoy watching them, because they let you see the world from a different perspective and learn something new.
 </p>
 
 <h2>Skills</h2>
